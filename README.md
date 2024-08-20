@@ -11,10 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VatosV2&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true" alt="VatosV2's GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatosV2&layout=compact&theme=dark" alt="Top Languages">
-</p>
-
 ---
 
 <p align="center">
