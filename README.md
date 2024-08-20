@@ -14,16 +14,16 @@
 ---
 
 <p align="center">
-  <strong>💼 Owner of <a href="https://nexustools.de/" target="_blank">NexusTools</a></strong>
+  <strong>🚀 Check out my newest project:</strong> <br>
+  <a href="https://github.com/VatosV2/Nexus-SelfBot" target="_blank"><img src="https://img.shields.io/badge/Nexus%20SelfBot-Repository-%23ff61a6?style=flat&logo=github&logoColor=white&color=000000" alt="Nexus SelfBot Repository"></a>
 </p>
 
+---
 <p align="center">
   <a href="https://github.com/VatosV2?tab=repositories"><img src="https://img.shields.io/badge/-Explore%20my%20Repos-24292e?style=for-the-badge&logo=Github"></a>
 </p>
 
----
-
 <p align="center">
-  <strong>🚀 Check out my newest project:</strong> <br>
-  <a href="https://github.com/VatosV2/Nexus-SelfBot" target="_blank"><img src="https://img.shields.io/badge/Nexus%20SelfBot-Repository-%23ff61a6?style=flat&logo=github&logoColor=white&color=000000" alt="Stars"></a>
+  <strong>💼 Owner of <a href="https://nexustools.de/" target="_blank">NexusTools</a></strong>
 </p>
+
