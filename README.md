@@ -14,12 +14,6 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VatosV2&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-<p align="center">
   <strong>💼 Owner of <a href="https://nexustools.de/" target="_blank">NexusTools</a></strong>
 </p>
 
