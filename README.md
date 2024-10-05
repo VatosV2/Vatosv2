@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshxfi&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="VatosV2's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vatosv2&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="VatosV2's GitHub Stats">
 </p>
 
 ---
