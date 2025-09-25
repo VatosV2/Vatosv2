@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <strong>💼 Owner of <a href="https://nexustools.de/" target="_blank">NexusTools</a></strong>
+  <strong>💼 Owner of <a href="https://nexustools.store/" target="_blank">NexusTools</a></strong>
 </p>
 
 <p align="center">
