@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <strong>💼 Owner of <a href="https://nexustools.store/" target="_blank">NexusTools</a></strong>
+  <strong>💼 DM me for custom projects on <a href="https://t.me/VatosV2" target="_blank">Telegram</a></strong>
 </p>
 
 <p align="center">
