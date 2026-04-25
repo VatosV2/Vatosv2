@@ -24,14 +24,6 @@
 
 ---
 
-<p align="center">
-  🚀 17 y/o developer<br>
-  🐍 Specialized in Python & automation <br>
-  🛠️ Building Discord systems, tools & custom solutions <br>
-  💸 Building & selling automation tools since 2021
-</p>
-
----
 
 <p align="center">
   <strong>💼 Available for custom development work</strong><br>
