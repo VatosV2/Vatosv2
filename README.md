@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-7hti.vercel.app/api?username=vatosv2&theme=dark&show_icons=true&hide_border=true&count_private=true&v=2">
+  <img src="https://github-readme-stats-7hti.vercel.app/api?username=vatosv2&theme=dark&show_icons=true&hide_border=true&count_private=true&v=3">
 </p>
 
 ---
